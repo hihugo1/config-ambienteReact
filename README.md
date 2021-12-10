@@ -46,6 +46,8 @@ Minha configuração de ambiente em react
     
     yarn add sass-loader -D
     
+    yarn add node-sass -D
+    
     - Criar arquivo webpack.config.js
     - **webpack.config.js**
         
