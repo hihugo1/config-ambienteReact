@@ -36,6 +36,16 @@ Minha configuração de ambiente em react
     
     yarn add webpack webpack-cli webpack-dev-server -D
     
+    yarn webpack
+    
+    yarn add html-webpack-plugin -D
+    
+    yarn add cross-env -D
+    
+    yarn add style-loader css-loader -D
+    
+    yarn add sass-loader -D
+    
     - Criar arquivo webpack.config.js
     - **webpack.config.js**
         
@@ -103,8 +113,3 @@ Minha configuração de ambiente em react
         
         }
         ```
-        
-    
-    yarn webpack
-    
-    yarn add html-webpack-plugin -D
